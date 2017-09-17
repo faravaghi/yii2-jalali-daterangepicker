@@ -214,11 +214,11 @@
 }
 
 .daterangepicker td.start-date {
-  border-radius: 4px 0 0 4px;
+  border-radius: 0 4px 4px 0;
 }
 
 .daterangepicker td.end-date {
-  border-radius: 0 4px 4px 0;
+  border-radius: 4px 0 0 4px;
 }
 
 .daterangepicker td.start-date.end-date {
