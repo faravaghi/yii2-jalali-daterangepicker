@@ -1,12 +1,9 @@
 <?php
-
 /**
- * @copyright Copyright &copy; Mohammad Ebrahim Amini, faravaghi..ir, 2016
- * @package yii2-widgets
- * @subpackage yii2-jalali-daterangepicker
- * @version 1.0.0
+ * @link http://faravaghi.ir
+ * @copyright Copyright (c) 2017 faravaghi
+ * @license MIT http://opensource.org/licenses/MIT
  */
-
 namespace faravaghi\jalaliDateRangePicker;
 
 use Yii;
