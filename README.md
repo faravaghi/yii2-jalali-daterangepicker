@@ -2,6 +2,8 @@ Jalali Date Range Picker
 ========================
 Date Range Picker for Bootstrap Yii2 Extension
 
+[![Latest Stable Version](https://poser.pugx.org/faravaghi/yii2-jalali-daterangepicker/v/stable)](https://packagist.org/packages/faravaghi/yii2-jalali-daterangepicker) [![Total Downloads](https://poser.pugx.org/faravaghi/yii2-jalali-daterangepicker/downloads)](https://packagist.org/packages/faravaghi/yii2-jalali-daterangepicker) [![Latest Unstable Version](https://poser.pugx.org/faravaghi/yii2-jalali-daterangepicker/v/unstable)](https://packagist.org/packages/faravaghi/yii2-jalali-daterangepicker) [![License](https://poser.pugx.org/faravaghi/yii2-jalali-daterangepicker/license)](https://packagist.org/packages/faravaghi/yii2-jalali-daterangepicker)
+
 Installation
 ------------
 
